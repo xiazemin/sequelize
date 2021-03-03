@@ -52,3 +52,7 @@ Or, if you don't want/need a background service you can just run:
 npm install --save crypto-js
 
 pm install --save zlib  
+
+
+function * generator
+https://segmentfault.com/q/1010000000367154
